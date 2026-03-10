@@ -4,8 +4,8 @@ test('2 + 3 = 5', () => {
     expect(addition(2,3)).toBe(5)
 })
 
-test('2 + 4 = 6', () => {
-    expect(addition(2,4)).toBe(6)
+test('2 + 1 = 3', () => {
+    expect(addition(2,1)).toBe(3)
 })
 
 test('23 + 32 = 55', () => {
